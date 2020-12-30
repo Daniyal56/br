@@ -1,0 +1,50 @@
+.highlight {
+  border-radius: 0.4rem;
+  color: white;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.9);
+}
+.bold {
+  padding-left: 1rem;
+  font-weight: 700;
+}
+.blue {
+  background-color: #4d4dff;
+}
+.red {
+  background-color: #800000;
+  color: white;
+}
+
+.css-1aumxhk {
+background-color:  ##FFC300;
+background-image: none;
+color: black
+}
+
+.streamlit-expanderHeader{
+
+color:black;
+}
+
+.css-145kmo2{
+color:black;
+}
+
+.row-widget{
+row-gap:0.1rem
+}
+
+
+.css-1dddlbu {
+line-height:0px;
+}
+
+.css-1aumxhk {
+padding: 1.3rem 1rem;
+}
+
+.button{
+color: red;
+}

@@ -1,0 +1,10 @@
+PB. Date,,Wood Wood UOM,,,MDS,Rate,Net Amount Bilty,Bilty,Vehicle No.,Bilty,Unloading,Net Remarks
+No,,ID Description,,,,,No.,Date,,Charges,Amount,Pay
+Abdul Hameed,,,,,,,,,,,,
+PBW-2105163 01-DEC-20,,00006 Mix MDS,,,422.00,280.00,"118,160.00 1609",30-NOV-20,AE-1230,0.00,0.00,"118,160.00"
+PBW-2105163 01-DEC-20,,00019 Mango Without MDS,,,17.75,315.00,"5,591.25 1609",30-NOV-20,AE-1230,,,"5,591.25"
+"",,Roots,,,,,,,,,,
+"",,Bill Wise Sum:,,,439.75,,"123,751.25",,,0.00,0.00,"123,751.25"
+PBW-2105198 02-DEC-20,,00006 Mix MDS,,,529.75,280.00,"148,330.00 020",01-DEC-20,TAE-728,"22,160.00",0.00,"126,170.00"
+"",,Bill Wise Sum:,,,529.75,,"148,330.00",,,"22,160.00",0.00,"126,170.00"
+"",,Vendor Wise Sum:,,,969.50,,"272,081.25",,,"22,160.00",0.00,"249,921.25"

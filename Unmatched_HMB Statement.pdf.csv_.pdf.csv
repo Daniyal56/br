@@ -1,0 +1,27 @@
+Tran.Date,Tran. No.,Drawn On/Paid,AmountDr,AmountCr,Doc. No.,status
+"",,To,,,,
+-,-,-,"31,851.00",0,-,--Select--
+-,-,-,"216,684.00",0,-,--Select--
+-,-,-,0,"219,487.37",-,--Select--
+-,-,-,"3,067.99",0,-,--Select--
+03-Jan-20,MBR-190018,Meezan,"20,000.00",0,A-27066089,Dishonoured
+03-Jan-20,PBR-190294,BAHL,"50,000.00",0,11439862,NSF
+06-Jan-20,PBR-190295,BAHL,"50,000.00",0,11439863,Outstanding
+09-Jan-20,PBR-190103,Al Habib,"40,000.00",0,10245888,Outstanding
+09-Jan-20,PBR-190187,On Line,"6,000.00",0,126630779,--Select--
+09-Jan-20,PBR-190188,On Line,"6,000.00",0,126630848,Dishonoured
+09-Jan-20,PBR-190297,BAHL,"50,000.00",0,11439864,NSF
+09-Jan-20,PBR-190299,BAHL,"50,000.00",0,11439865,Outstanding
+14-Jan-20,PBP-190175,DIB House,0,"214,000.00",9500992,NSF
+"",,Installment,,,,
+15-Jan-20,PBR-190101,Al Habib,"93,000.00",0,13311012,Unpresented
+04-Feb-20,PBR-190115,Al Habib,"92,400.00",0,13333254,Outstanding
+06-Feb-20,PBP-190204,THk,0,"200,000.00",99500994,NSF
+06-Feb-20,PBR-190114,HMBL,"100,000.00",0,126702530,NSF
+12-Feb-20,PBR-190189,On Line,"6,000.00",0,127294186,Dishonoured
+27-Feb-20,PBR-190128,Meezan,"125,000.00",0,A-19516708,Outstanding
+06-Mar-20,PBR-190130,Al Habib,"92,400.00",0,11764023,Outstanding
+09-Mar-20,PBR-190190,On Line,"6,000.00",0,127294237,Outstanding
+16-Mar-20,PBP-190241,DIB House,0,"214,000.00",99500995,NSF
+"",,Installment,,,,
+21-Apr-20,PBP-190260,A-192,0,"172,000.00",99500996,Outstanding
